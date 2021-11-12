@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "818509777344",
+    "project_id": "insight-21050",
+    "storage_bucket": "insight-21050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818509777344:android:8b02c5635dbc109614a025",
+        "android_client_info": {
+          "package_name": "darklordofamber.insight.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818509777344-ojrp7oiojss7hbpvrkda192hp8dcdnfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "darklordofamber.insight.app",
+            "certificate_hash": "7dc03f8d625b0b3c0b615fe7bfe48ce0cc6fc7f4"
+          }
+        },
+        {
+          "client_id": "818509777344-1urjor02vrcniuld0dmccli9hgptlgdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZN2NwxbZ6uGw6TuuOYYPO1fHs0ZwLHKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818509777344-1urjor02vrcniuld0dmccli9hgptlgdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
